@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eieruhr</string>
+    <string name="channel_description">Alle Benachrichtigungen</string>
+    <string name="notification_title">Eieruhr</string>
+    <string name="notification_message">Die Eieruhr ist am Ziel!</string>
+    <string name="channel_name">Eieruhr</string>
+    <string name="enter_text">Stunden und Minuten optional</string>
+    <string name="enter_text_2">Format: hh:mm:ss</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="egg_clock">Eieruhr</string>
+    <string name="go">Start</string>
+    <string name="save">Speichern</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eieruhr Timer</string>
+    <string name="channel_description">All timer alerts</string>
+    <string name="notification_title">Timer alert</string>
+    <string name="notification_message">Your timer has finished!</string>
+    <string name="channel_name">Timer</string>
+    <string name="enter_text">Hours and Minutes optional</string>
+    <string name="enter_text_2">Layout: hh:mm:ss</string>
+    <string name="cancel">Cancel</string>
+    <string name="egg_clock">Egg clock</string>
+    <string name="hh_mm_ss" translatable="false">(hh:)(mm:)ss</string>
+    <string name="go">Go</string>
+    <string name="save">Save</string>
+</resources>
